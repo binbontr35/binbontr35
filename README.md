@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm BinBon</h1>
 <h3 align="center">a self-styled person ⚡</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=binbontr" alt="binbontr" /></a> </p>
-
 - 🔭 I’m currently working on **Garrysmod Development**
 
 - 🌱 I’m currently learning **Professional UI and improve myself in all languages**
