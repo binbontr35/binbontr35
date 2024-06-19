@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on **Garrysmod Development**
 
-- 🌱 I’m currently learning **Professional UI and improve myself in all languages**
+- 🌱 Im learning Proffessional UI also trying to improve myself in all languages
 
 - 🔭 I’m currently working on **Fivem Script Development**
 
 - 🔭 I’m currently working on **Counter-Strike 2 Development**
 
-- 📫 How to reach me **oznyld35@gmail.com**
+- 📫 If you need to reach me: **oznyld35@gmail.com**, **discord: binbontr**
 
-<h3 align="left">Connect with me on discord: binbontr </h3>
+<h3 align="left"> </h3>
 <p align="left">
 </p>
 
